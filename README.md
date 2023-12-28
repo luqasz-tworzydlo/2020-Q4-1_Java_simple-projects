@@ -3,14 +3,14 @@
 
 /=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
 
-The following projects are one of the first I have done in the JAVA programming language.
+The following projects are among the first I have done in the Java programming language.
 
 
-There are two little projects in this repository:
+There are two small projects in this repository:
 
--> flight search engine
+-> Flight Search Engine
 
--> mobile phone (advertisement)
+-> Mobile Phone (advertisement)
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -19,8 +19,8 @@ Niniejsze projekty są jedne z pierwszych, które wykonałem w języku programow
 
 W tym repozytorium znajdują się dwa programy, czyli:
 
--> wyszukiwarka lotów
+-> Wyszukiwarka Lotów
 
--> telefon komórkowy (reklama)
+-> Telefon Komórkowy (reklama)
 
 /=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
