@@ -14,10 +14,10 @@ There are two small projects in this repository:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Niniejsze projekty są jedne z pierwszych, które wykonałem w języku programowania JAVA.
+Niniejsze projekty należą do pierwszych, które wykonałem w języku programowania Java.
 
 
-W tym repozytorium znajdują się dwa programy, czyli:
+W tym repozytorium znajdują się dwa małe projekty:
 
 -> Wyszukiwarka Lotów
 
